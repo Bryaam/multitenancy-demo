@@ -1,6 +1,6 @@
 # README
 
-Schemas will be generated after use creation based on the user's domain attribute.
+Schemas will be generated after users creation based on the user's domain attribute.
 
 Dependencies:
 
