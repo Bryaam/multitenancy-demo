@@ -18,7 +18,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
-gem 'devise', '~> 4.2'
+gem 'devise', '~> 4.7'
 gem 'apartment', '~> 2.2', '>= 2.2.1'
 
 # Reduces boot times through caching; required in config/boot.rb
